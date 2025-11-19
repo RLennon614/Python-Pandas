@@ -30,26 +30,43 @@ Topics covered:
 Topics covered:
 
 📚 Selecting multiple columns
+
 🎛️ Selecting rows using .loc and .iloc
+
 🔎 Boolean filtering
+
 ↕️ Sorting values
+
 🗑️ Dropping columns
+
 📝 Practice exercises with row/column selection
+
 3️⃣ 03_Pandas_DataFrames_Continued_01.ipynb
+
 ➡️ Handling Missing Values
+
 Topics covered:
 
 ❓ Understanding missing (NA) values
+
 🧪 Using .isna() and .notna()
+
 🔢 Counting missing data
+
 🩹 Filling missing values
+
 🚮 Dropping rows and columns
+
 📈 Using .value_counts()
+
 🐧 Exercises with penguins.csv:
 Importing CSV files
 Counting missing values per column
+
 Calculating % missing values per row
+
 Sorting rows by missingness
+
 🎓 Learning Outcomes
 After completing these notebooks, you will understand:
 
