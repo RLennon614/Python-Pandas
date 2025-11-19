@@ -11,13 +11,21 @@ The notebooks progress from beginner-friendly concepts to more advanced DataFram
 Topics covered:
 
 🧱 Creating DataFrames from Python collections
+
 🔍 Understanding DataFrame properties
+
 🎯 Selecting columns
+
 ➕ Creating new columns
+
 ✏️ Renaming columns
+
 📊 Descriptive statistics
+
 📝 Exercises using lists of dictionaries
+
 2️⃣ 02_PandasDataFrames_02.ipynb
+
 ➡️ DataFrame Basics (Part 2)
 Topics covered:
 
